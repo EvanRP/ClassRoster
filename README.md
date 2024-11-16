@@ -1,6 +1,6 @@
 Overview:
 
-The ClassRoster repository is a C++ application designed to manage and maintain a roster of students or participants in a class. It provides functionalities to handle and manipulate student data effectively, demonstrating core principles of C++ programming.
+ClassRoster is a C++ application designed to manage and maintain a roster of students or participants in a class. It provides functionalities to handle and manipulate student data effectively, demonstrating core principles of C++ programming.
 
 Features:
 
